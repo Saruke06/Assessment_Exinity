@@ -1,0 +1,42 @@
+# Компиляционные файлы и директории
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/Makefile
+/CMakeScripts/
+CTestTestfile.cmake
+cmake_install.cmake
+
+# Файлы исполняемых файлов и объектных файлов
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.out
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Файлы IDE
+*.cbp
+*.idea/
+*.ninja
+*.sln
+*.vcxproj*
+*.DS_Store
+
+# MacOS/Linux специфические файлы
+*.dSYM/
+*.app
+*.directory

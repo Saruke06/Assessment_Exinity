@@ -1,0 +1,10 @@
+BasedOnStyle: Google
+IndentWidth: 4
+ColumnLimit: 100
+DerivePointerAlignment: false
+PointerAlignment: Left
+AllowShortFunctionsOnASingleLine: Empty
+BreakBeforeBraces: Allman
+Cpp11BracedListStyle: true
+IncludeBlocks: Preserve
+SortIncludes: true
